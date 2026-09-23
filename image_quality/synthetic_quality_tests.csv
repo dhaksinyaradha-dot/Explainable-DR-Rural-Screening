@@ -1,0 +1,4 @@
+TestType,Quality,Reason,PassToPreprocessing
+Blurry,POOR,Image may be blurry,0
+Dark,POOR,Image may be too dark,0
+Overexposed,POOR,Image may be overexposed,0
